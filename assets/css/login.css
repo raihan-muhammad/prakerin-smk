@@ -1,0 +1,50 @@
+body {
+	background-color: #e9ecef;
+}
+.back-judul {
+	width: 100%;
+	height: 200px;
+	background-color: #11cdef;
+}
+
+.bungkus-kotak {
+	margin: auto;
+	width: 80%;
+	box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+	margin: -15% auto 0 auto;
+}
+
+.form-control{
+	border: 0;
+	border-bottom: 1px solid #1382BD;
+	border-radius: 0;
+	color: #1382BD;
+	
+}
+
+.form-control::-webkit-input-placeholder{
+	padding: none;
+	color: #fff;
+
+}
+
+.form-control:focus{
+	box-shadow: none;
+	transition: 0.5s ease;
+	border-bottom: 1px solid #1EB4CC;
+	color: #1382BD;
+}
+
+.label {
+	color: #1382BD;
+	margin-bottom: -2%;
+}
+
+.btn-login {
+	width: 100%;
+	border-radius: 1%;
+	border: none;
+	height: 40px;
+	background-color: #1382BD;
+	color: white;
+}

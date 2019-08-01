@@ -1,0 +1,22 @@
+.profile {
+	background-color: rgba(50, 50, 93, 0.11);
+	overflow-x: hidden;
+}
+
+#kembali {
+	background-color: #119ab3;
+	border: 0;
+	margin-top: -40%;
+}
+
+.miring-satu {
+	width: 150%;
+	display: block;
+	height: 250px;
+	background-color: #53b2c1;
+	transform: rotate(-31deg)translateX(-1%)translateY(-80%);
+}
+
+#particles-js {
+	position: absolute;
+}

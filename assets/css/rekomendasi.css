@@ -1,0 +1,34 @@
+#alamat {
+	width: 100%;
+	border-bottom: 1.5px solid #f77754;
+	color: #f77754
+}
+
+#alamat3 {
+	color: #113f67;
+	width: 100%;
+	border-bottom: 1.5px solid #113f67;
+}
+
+#alamat2 {
+	color: #bb1542;
+	width: 100%;
+	border-bottom: 1.5px solid #bb1542;
+}
+
+#bukti {
+	color: #1391a9;
+	width: 100%;
+	border-bottom: 1.5px solid #1391a9;
+}
+
+.tombol {
+	color: #fff;
+	margin: 5% auto;
+	padding: 10px 5px 10px 5px;
+	width: 70%;
+	text-align: center;
+	border-radius: 15px;
+	border: transparent;
+	background-image: linear-gradient(110.4deg, rgba(147, 135, 255, 1) 2.6%, rgba(6, 142, 255, 1) 97.8%);
+}

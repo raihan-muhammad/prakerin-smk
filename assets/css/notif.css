@@ -1,0 +1,57 @@
+body {
+    overflow-x: hidden;
+}
+
+.bubble {
+    width: 200px;
+    height: 200px;
+    margin-top: -15%;
+    margin-left: -15%;
+    border-radius: 50%;
+    background-color: #172b4d;
+}
+
+.bubble2 {
+    width: 200px;
+    height: 200px;
+    background-color: #ffc15e;
+    border-radius: 50%;
+    margin: -68% 0 0 10%;
+}
+
+.bubble3 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: -15% 0 0 15%;
+    background-color: #bb1542;
+    position: relative;
+    z-index: -3;
+}
+
+.bubble4 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #ffc15e;
+    margin-left: 85%;
+    margin-bottom: -35%;
+    position: relative;
+}
+
+.bubble5 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: #bb1542;
+    margin: 0 0 -15% 60%;
+}
+
+.bubble6 {
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+    margin-left: 65%;
+    margin-bottom: -30%;
+    background-color: #172b4d;
+}
